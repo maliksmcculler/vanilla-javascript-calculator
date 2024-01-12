@@ -20,6 +20,10 @@ git clone https://github.com/maliksmcculler/vanilla-javascript-calculator.git
 
 3. Start calculating!
 
+## Demo
+
+For a live demo, check it out [Calculator](vanillajscalc.netlify.app)
+
 ## Usage
 
 1. Enter numbers using the on-screen buttons or your keyboard.
