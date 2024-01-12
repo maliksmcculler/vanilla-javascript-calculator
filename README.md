@@ -2,7 +2,7 @@
 
 A simple calculator built with HTML, CSS, and pure Vanilla JavaScript. This project provides a basic calculator interface with essential arithmetic operations for addition, subtraction, multiplication, and division.
 
-![Calculator Screenshot]("")
+![Calculator Screenshot]("https://github.com/maliksmcculler/vanilla-javascript-calculator/blob/master/vanillajscalculator.png")
 
 ## Features
 
