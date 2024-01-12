@@ -22,7 +22,7 @@ git clone https://github.com/maliksmcculler/vanilla-javascript-calculator.git
 
 ## Demo
 
-For a live demo, check it out [Calculator](vanillajscalc.netlify.app)
+For a live demo, check it out [Vanilla Calculator](https://vanillajscalc.netlify.app/)
 
 ## Usage
 
