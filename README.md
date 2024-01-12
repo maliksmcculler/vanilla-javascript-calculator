@@ -10,10 +10,6 @@ A simple calculator built with HTML, CSS, and pure Vanilla JavaScript. This proj
 - **Clear and Reset:** Easily clear the current input or reset the entire calculation.
 - **Responsive Design:** The calculator is designed to work seamlessly on various screen sizes.
 
-## Demo
-
-For a live demo, check out the [Calculator Demo](link-to-demo).
-
 ## Getting Started
 
 1. Clone the repository:
