@@ -43,14 +43,11 @@ If you'd like to contribute to the project, follow these steps:
 4. Push to the branch: `git push origin feature-new-functionality`
 5. Submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
 - Inspired by the simplicity of Vanilla JavaScript projects.
-- Special thanks to [name] for their [contribution/inspiration/reference].
+- Special thanks to Wes Bos for the JavaScript 30 course.
 
 Feel free to explore and enhance the calculator as you see fit! If you encounter any issues or have suggestions, please open an issue or pull request.
 
