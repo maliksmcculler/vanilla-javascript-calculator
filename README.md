@@ -15,7 +15,7 @@ A simple calculator built with HTML, CSS, and pure Vanilla JavaScript. This proj
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/vanilla-js-calculator.git
+git clone https://github.com/maliksmcculler/vanilla-javascript-calculator.git
 ```
 
 2. Open the `index.html` file in your preferred web browser.
